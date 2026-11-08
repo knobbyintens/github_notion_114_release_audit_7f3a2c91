@@ -1,0 +1,3 @@
+owner=wenshuo
+delivery_mode=batch
+layout=package-per-directory
