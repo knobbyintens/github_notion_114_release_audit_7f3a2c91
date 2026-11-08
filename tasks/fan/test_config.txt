@@ -1,0 +1,3 @@
+owner=fan
+delivery_mode=batch
+layout=package-per-directory
