@@ -1,0 +1,3 @@
+owner=yuzhen
+delivery_mode=batch
+layout=package-per-directory
